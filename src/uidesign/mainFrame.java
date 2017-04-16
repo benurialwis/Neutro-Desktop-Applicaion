@@ -12,7 +12,7 @@ import javax.swing.JComboBox;
 
 /**
  *
- * @author LakshanG <lakshan.g at your.org>
+ * @author BenuriAlwis
  */
 public class mainFrame extends javax.swing.JFrame {
 
